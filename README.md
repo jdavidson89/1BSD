@@ -1,2 +1,4 @@
 # 1BSD
 1BSD Magtape File
+
+I am uploading the SIMH tape for the 1BSD tar from The Unix Heritage Society, I didn't create anything included here(except the .tap file)I used the rawtap program from OpenSIMH to put the tar onto a tape, then booted Research Unix Version 7, extracted the tar onto a scratch disk using the builtin V7 tar program, then using the builtin V7 tp program I created a new MagTape file from the extracted tar and now you can put this tape into V6 Unix(it's initial target)or any UNIX with the tp program and run the installer script from the instructions included in the tar from BIll Joy.  As far as I could tell no-one had ever uploaded a workable 1BSD tape so here it is, the files it extracts are in cont.a(which the 1978 instructions explain)I am working on how to use those but this is simply the MagTape for now in SIMH format, enjoy.
