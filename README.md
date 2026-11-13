@@ -5,4 +5,4 @@ I am uploading the SIMH tape for the 1BSD tar from The Unix Heritage Society, I 
 
 Update Nov 13th, 2026
 
-I have uploaded my backported ar.c file from 2.79BSD from TUHS servers which I had to manually add itol and mktemp functions so it would compile cleanly on stock v6 unix, so with that compiled onto V6 Unix and this magtape file 1BSD is not installable on a stock V6 Unix, haven't tested compiling everything but the cont.a files are extractable with this new ar
+I have uploaded my backported ar.c file from 2.79BSD from TUHS servers which I had to manually add itol and mktemp functions so it would compile cleanly on stock v6 unix, so with that compiled onto V6 Unix and this magtape file 1BSD is now installable on a stock V6 Unix, haven't tested compiling everything but the cont.a files are extractable with this new ar
