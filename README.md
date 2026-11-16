@@ -11,4 +11,4 @@ Update Nov 14th, 2026
 
 Link to installation steps
 
-https://gunkies.org/wiki/Installing_1_BSD_on_SIMH
+https://gunkies.org/wiki/Installing_1BSD_on_SIMH
